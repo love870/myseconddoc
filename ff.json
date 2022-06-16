@@ -1,0 +1,39 @@
+{
+    "Level 1": {
+        "Year": "2013",
+        "Industry_aggregation_NZSIOC": "Level 1",
+        "Industry_code_NZSIOC": "RS",
+        "Industry_name_NZSIOC": "Arts, Recreation and Other Services",
+        "Units": "Percentage",
+        "Variable_code": "H41",
+        "Variable_name": "Liabilities structure",
+        "Variable_category": "Financial ratios",
+        "Value": "69",
+        "Industry_code_ANZSIC06": "ANZSIC06 divisions R and S"
+    },
+    "Level 4": {
+        "Year": "2013",
+        "Industry_aggregation_NZSIOC": "Level 4",
+        "Industry_code_NZSIOC": "RS214",
+        "Industry_name_NZSIOC": "Civil, Professional and Other Interest Groups",
+        "Units": "Percentage",
+        "Variable_code": "H41",
+        "Variable_name": "Liabilities structure",
+        "Variable_category": "Financial ratios",
+        "Value": "88",
+        "Industry_code_ANZSIC06": "ANZSIC06 group S955"
+    },
+    "Level 3": {
+        "Year": "2013",
+        "Industry_aggregation_NZSIOC": "Level 3",
+        "Industry_code_NZSIOC": "ZZ11",
+        "Industry_name_NZSIOC": "Food product manufacturing",
+        "Units": "Percentage",
+        "Variable_code": "H41",
+        "Variable_name": "Liabilities structure",
+        "Variable_category": "Financial ratios",
+        "Value": "46",
+        "Industry_code_ANZSIC06": "ANZSIC06 groups C111, C112, C113, C114, C115, C116, C117, C118, and C119"
+    }
+    
+}
